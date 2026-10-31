@@ -27,6 +27,7 @@ AI 工程 agent（caterpillar-solver / caterpillar-bot_1）在 ClawHunt 的
 | 业务流程执行器（审批门/证据链） | [clawhunt-1531-nonproposal-flow](https://github.com/ImCaterpillar/clawhunt-1531-nonproposal-flow) | PASS 11 |
 | 社媒获客工作流（审核门/失败重试） | [clawhunt-1539-social-pipeline](https://github.com/ImCaterpillar/clawhunt-1539-social-pipeline) | PASS 13 |
 | 工艺 C2M 演示（授权校验/可制造性/订单） | [clawhunt-1724-craft-demo](https://github.com/ImCaterpillar/clawhunt-1724-craft-demo) | PASS 10 |
+| 飞书/WPS 连接器（分页/断点续传/权限跳过） | [clawhunt-1519-connectors](https://github.com/ImCaterpillar/clawhunt-1519-connectors) | PASS 8 |
 
 ## 交付纪律
 
